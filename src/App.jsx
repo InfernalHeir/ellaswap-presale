@@ -59,7 +59,7 @@ const App = () =>  {
                     id="menu-item-241"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-241"
                   >
-                    <a href="#" className="nav-link">
+                    <a href="#tokensale" className="nav-link">
                       Pre Sale
                     </a>
                   </li>
@@ -67,7 +67,7 @@ const App = () =>  {
                     id="menu-item-242"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-242"
                   >
-                    <a href="#" className="nav-link">
+                    <a href="#roadmap" className="nav-link">
                       Roadmap
                     </a>
                   </li>
@@ -75,7 +75,7 @@ const App = () =>  {
                     id="menu-item-243"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-243"
                   >
-                    <a href="#" className="nav-link">
+                    <a href="#team" className="nav-link">
                       Team
                     </a>
                   </li>
@@ -83,7 +83,7 @@ const App = () =>  {
                     id="menu-item-244"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"
                   >
-                    <a href="#" className="nav-link">
+                    <a href="#media" className="nav-link">
                       Partners
                     </a>
                   </li>
@@ -102,7 +102,7 @@ const App = () =>  {
                         id="menu-item-246"
                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-246"
                       >
-                        <a href="#" className="nav-link">
+                        <a href="#media" className="nav-link">
                           Media Partners
                         </a>
                       </li>
@@ -110,7 +110,7 @@ const App = () =>  {
                         id="menu-item-357"
                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-357"
                       >
-                        <a href="#" className="nav-link">
+                        <a href="#latestblog" className="nav-link">
                           Blog
                         </a>
                       </li>
@@ -118,7 +118,7 @@ const App = () =>  {
                         id="menu-item-247"
                         className="menu-item menu-item-type-custom menu-item-object-custom menu-item-247"
                       >
-                        <a href="#" className="nav-link">
+                        <a href="#faqs" className="nav-link">
                           FAQs
                         </a>
                       </li>
@@ -131,7 +131,7 @@ const App = () =>  {
                     id="menu-item-248"
                     className="menu-item menu-item-type-custom menu-item-object-custom menu-item-248"
                   >
-                    <a href="#" className="nav-link">
+                    <a href="#contact" className="nav-link">
                       Contact
                     </a>
                   </li>
@@ -1912,32 +1912,7 @@ const App = () =>  {
                           </div>
                         </div>
                       </div>
-                      <div
-                        data-animate="fadeInUp"
-                        data-delay="0.2"
-                        className="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center   single-partner">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="642"
-                                    height="182"
-                                    src="img/News_BTC-3869328509.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                    srcSet="img/News_BTC-3869328509.png"
-                                    sizes="(max-width: 642px) 100vw, 642px"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
+          
                       {/* <div
                         data-animate="fadeInUp"
                         data-delay="0.3"
@@ -3384,9 +3359,9 @@ const App = () =>  {
                   </li>
                 </ul>
                 <span className="copyright-text">
-                  Copyright © 2020, Ella Finance Made By
+                  Copyright © 2020, Made By
                   <a href="http://wa.me/8755832604/" target="_blank">
-                    Rakesh
+                  Ella Finance
                   </a>
                   .
                   <span>
@@ -3413,14 +3388,7 @@ const App = () =>  {
                 </button>
               </div>
               <div class="modal-body">
-                <p>Dear Community,</p>
-
-                <p>
-                  We are all set with a new plan and will announce the new date
-                  of pre-sale event soon. This time, we are offering private
-                  sale prior to the actual Crowd fund event. Here is the notice
-                  from our lawyer.
-                </p>
+     
 
                 <p>Legal Notice</p>
 
