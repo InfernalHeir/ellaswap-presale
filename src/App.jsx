@@ -327,7 +327,7 @@ const App = () =>  {
         </section>
         <section
           id="intro"
-          className="vc_row wpb_row vc_row-fluid section section-pad section-bg-blend nopb vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"
+          className="section-common vc_row wpb_row vc_row-fluid section section-pad section-bg-blend nopb vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"
         >
           <div className="container">
             <div className="row">
@@ -373,16 +373,14 @@ const App = () =>  {
                           className="blockParagraph-544a408c"
                           data-key="4b9d84b1a84043f683b46e10271980b6"
                         >
-                          <strong>
-                            <span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
+                          <span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
                               ELLA is a next-generation on-chain liquidity
                               provider, which leverages on chain link
                               decentralized price oracle to provide pure
                               on-chain liquidity for everyone at zero slippage.
                             </span>
-                          </strong>
                         </p>
-                        <div className="blockHeadingContent-756c9114">
+                        <div className="blockHeadingContent-756c9114 sub-heading">
                           <span className="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
                             <span data-key="69a0da596f1140578f04e1ba97e5e8ce">
                               How does ELLA work
@@ -406,17 +404,17 @@ const App = () =>  {
                           </span>
                         </p>
                         <p
-                          className="blockParagraph-544a408c"
+                          className="blockParagraph-544a408c mb-0"
                           data-key="14bc28209cfa48f7a0ac3056b9c2d0a3"
                         >
                           <span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
                             <span data-key="62b78736872c41fc83bbff6477affbe6">
-                              <strong
-                                className="bold-3c254bd9"
+                              <span
+                                className="bold-3c254bd9 sub-heading"
                                 data-slate-leaf="true"
                               >
                                 Why ELLA
-                              </strong>
+                              </span>
                             </span>
                           </span>
                         </p>
@@ -496,7 +494,7 @@ const App = () =>  {
           </div>
           <div className="clearfix"></div>
         </section>
-        <section className="vc_row wpb_row vc_row-fluid section-pad no-pb section-bg-alt vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
+        <section className="section-common vc_row wpb_row vc_row-fluid section-pad no-pb section-bg-alt vc_row-o-equal-height vc_row-o-content-middle vc_row-flex">
           <div className="container">
             <div className="row">
               <div
@@ -534,14 +532,14 @@ const App = () =>  {
                   <div className="wpb_wrapper">
                     <div className="wpb_text_column wpb_content_element  text-block">
                       <div className="wpb_wrapper">
-                        <h4>
+                        <h2>
                           <span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJoZWFkaW5nLTIlMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMldoYXQlMjBjYW4lMjBJJTIwZG8lMjB3aXRoJTIwRUxMQSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE">
-                            What Can I do with the Ella?
+                           <strong>What Can I do with the Ella?</strong> 
                           </span>
-                        </h4>
+                        </h2>
                         <div className="blockHeadingContent-756c9114">
                           <span className="text-4505230f--HeadingH400-686c0942--textContentFamily-49a318e1">
-                            <span data-key="24da41d6a5ea48c496e7a7ca5df4a863">
+                            <span data-key="24da41d6a5ea48c496e7a7ca5df4a863" className="sub-heading">
                               As a trader
                             </span>
                           </span>
@@ -612,12 +610,12 @@ const App = () =>  {
                         >
                           <span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
                             <span data-key="9109d19c1e2e431d94c3b3644ef35d41">
-                              <strong
-                                className="bold-3c254bd9"
+                              <span
+                                className="bold-3c254bd9 sub-heading"
                                 data-slate-leaf="true"
                               >
                                 As a Liquidity Provider
-                              </strong>
+                              </span>
                             </span>
                           </span>
                         </p>
@@ -741,7 +739,7 @@ const App = () =>  {
                                 data-animate="fadeInUp"
                                 data-delay=".1"
                               >
-                                Ella Overview <span>ELLA</span>
+                                <strong>Ella Overview </strong><span>ELLA</span>
                               </h2>
                             </div>
                             <div className="wpb_text_column wpb_content_element  vc_custom_1607233127862 text-center">
@@ -799,8 +797,8 @@ const App = () =>  {
                           <div className="wpb_wrapper">
                             <div className="wpb_text_column wpb_content_element  text-block">
                               <div className="wpb_wrapper">
-                                <h6>Why EllaSwap</h6>
-                                <ul>
+                                <h6 className="sub-heading">Why EllaSwap</h6>
+                                <ul className="whyella_ul">
                                   {/* <li>Fund Utilization</li>
                                   <li>Single Risk Exposure</li>
                                   <li>No Impermanent Loss</li> */}
@@ -883,12 +881,12 @@ const App = () =>  {
                                 data-animate="fadeInUp"
                                 data-delay=".1"
                               >
-                                ELLA PRE SALE <span>ELLA</span>
+                                <strong>ELLA PRE SALE</strong> <span>ELLA</span>
                               </h2>
                             </div>
                             <div className="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceInDown bounceInDown vc_custom_1607234202002 text-center wpb_start_animation animated">
                               <div className="wpb_wrapper">
-                                <h4 data-v-074c60b6="">Tokenization</h4>
+                                <h4 data-v-074c60b6="" className="sub-heading justify-content-center">Tokenization</h4>
                                 <p data-v-074c60b6="">
                                   EllaSwap has a native token with the ticker
                                   being (ELLA) which is built on the Ethereum
@@ -905,12 +903,12 @@ const App = () =>  {
                       <div
                         data-animate="fadeInUp"
                         data-delay="0"
-                        className="event-info wpb_column vc_column_container vc_col-sm-12 vc_col-md-6"
+                        className="event-info wpb_column vc_column_container vc_col-sm-12 vc_col-md-11 offset-md-1"
                       >
                         <div className="vc_column-inner ">
                           <div className="wpb_wrapper">
                             <div className="row">
-                              <div className="col-sm-6">
+                              <div className="col-sm-4">
                                 <div
                                   className="event-single-info"
                                   data-animate="fadeInUp"
@@ -920,7 +918,7 @@ const App = () =>  {
                                   <p>10 th JAN, 2021 (9:00 AM GMT)</p>
                                 </div>
                               </div>
-                              <div className="col-sm-6">
+                              <div className="col-sm-4">
                                 <div
                                   className="event-single-info"
                                   data-animate="fadeInUp"
@@ -930,7 +928,7 @@ const App = () =>  {
                                   <p>3 Million Ella (9%)</p>
                                 </div>
                               </div>
-                              <div className="col-sm-6">
+                              <div className="col-sm-4">
                                 <div
                                   className="event-single-info"
                                   data-animate="fadeInUp"
@@ -940,7 +938,7 @@ const App = () =>  {
                                   <p>20 th JAN, 2021 (9:00 AM GMT)</p>
                                 </div>
                               </div>
-                              <div className="col-sm-6">
+                              <div className="col-sm-4">
                                 <div
                                   className="event-single-info"
                                   data-animate="fadeInUp"
@@ -952,7 +950,7 @@ const App = () =>  {
                                   </p>
                                 </div>
                               </div>
-                              <div className="col-sm-6">
+                              <div className="col-sm-4">
                                 <div
                                   className="event-single-info"
                                   data-animate="fadeInUp"
@@ -962,7 +960,7 @@ const App = () =>  {
                                   <p>1,069,318 ELLA</p>
                                 </div>
                               </div>
-                              <div className="col-sm-6">
+                              <div className="col-sm-4">
                                 <div
                                   className="event-single-info"
                                   data-animate="fadeInUp"
@@ -976,7 +974,7 @@ const App = () =>  {
                           </div>
                         </div>
                       </div>
-                      <div
+                      {/* <div
                         data-animate="fadeInUp"
                         data-delay="0.5"
                         className="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-1 vc_col-lg-5 vc_col-md-6"
@@ -1038,18 +1036,18 @@ const App = () =>  {
                               >
                                 Join &amp; BUY TOKEN NOW
                               </a>
-                              {/* <ul className="icon-list">
+                              <ul className="icon-list">
                                 <li>
                                   <em className="fab fa-bitcoin"></em>
                                 </li>
                                 <li>
                                   <em className="fab fa-ethereum"></em>
                                 </li>
-                              </ul> */}
+                              </ul>
                             </div>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                     <div className="vc_row wpb_row vc_inner vc_row-fluid">
                       <div className="wpb_column vc_column_container vc_col-sm-12">
@@ -1073,11 +1071,9 @@ const App = () =>  {
                           <div className="wpb_wrapper">
                             <h3
                               style={{ textAlign: "center" }}
-                              className="vc_custom_heading sub-heading"
+                              className="vc_custom_heading sub-heading justify-content-center text-dark"
                             >
-                              Distribution
-                              <br />
-                              of tokens
+                              Distribution of tokens
                             </h3>
                             <div className="wpb_single_image wpb_content_element vc_align_center">
                               <figure className="wpb_wrapper vc_figure">
@@ -1107,11 +1103,9 @@ const App = () =>  {
                           <div className="wpb_wrapper">
                             <h3
                               style={{ textAlign: "center" }}
-                              className="vc_custom_heading sub-heading"
+                              className="vc_custom_heading sub-heading justify-content-center text-dark"
                             >
-                              Use
-                              <br />
-                              of proceeds
+                              Use of proceeds
                             </h3>
                             <div className="wpb_single_image wpb_content_element vc_align_center">
                               <figure className="wpb_wrapper vc_figure">
@@ -1163,12 +1157,12 @@ const App = () =>  {
                                 data-animate="fadeInUp"
                                 data-delay=".1"
                               >
-                                OUR ROADMAP. <span>ELLA ROADMAP</span>
+                               <strong>OUR ROADMAP</strong><span>ELLA ROADMAP</span>
                               </h2>
                             </div>
                             <div
                               className="vc_empty_space"
-                              style={{ height: "50px" }}
+                              style={{ height: "5px" }}
                             >
                               <span className="vc_empty_space_inner"></span>
                             </div>
@@ -1309,7 +1303,7 @@ const App = () =>  {
                                 data-animate="fadeInUp"
                                 data-delay=".1"
                               >
-                                Powered by a Team <span>TEAM</span>
+                               <strong>Powered by a Team</strong><span>TEAM</span>
                               </h2>
                             </div>
                             <div className="wpb_text_column wpb_content_element  vc_custom_1520850810932 text-center">
@@ -1358,8 +1352,16 @@ const App = () =>  {
                                     </a>
                                   </li>
                                   <li>
-                                    <a target="_blank" href="#">
+                                    <a target="_blank" href="https://twitter.com/MayMayreddy">
                                       <em className="fab fa-twitter"></em>
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      target="_blank"
+                                      href="javascript:void(0)"
+                                    >
+                                      <em className="fab fa-instagram"></em>
                                     </a>
                                   </li>
                                 </ul>
@@ -1409,6 +1411,14 @@ const App = () =>  {
                                       <em className="fab fa-twitter"></em>
                                     </a>
                                   </li>
+                                  <li>
+                                    <a
+                                      target="_blank"
+                                      href="javascript:void(0)"
+                                    >
+                                      <em className="fab fa-instagram"></em>
+                                    </a>
+                                  </li>
                                 </ul>
                               </div>
                             </div>
@@ -1454,6 +1464,14 @@ const App = () =>  {
                                       <em className="fab fa-twitter"></em>
                                     </a>
                                   </li>
+                                  <li>
+                                    <a
+                                      target="_blank"
+                                      href="javascript:void(0)"
+                                    >
+                                      <em className="fab fa-instagram"></em>
+                                    </a>
+                                  </li>
                                 </ul>
                               </div>
                             </div>
@@ -1473,13 +1491,13 @@ const App = () =>  {
                                 <span className="expand-trigger content-popup"></span>
                               </div>
                               <div className="team-info">
-                                <h5 className="team-name">Laicka Rodeo</h5>
+                                <h5 className="team-name">Cherry Lynn Aquino</h5>
                                 <span className="team-title">
                                   Community Management
                                 </span>
                                 <ul className="team-social">
                                   <li>
-                                    <a target="_blank" href="#">
+                                    <a target="_blank" href="https://m.facebook.com/shiznatkun?ref=bookmarks">
                                       <em className="fab fa-facebook-f"></em>
                                     </a>
                                   </li>
@@ -1497,6 +1515,14 @@ const App = () =>  {
                                       href="http://www.twitter.com/"
                                     >
                                       <em className="fab fa-twitter"></em>
+                                    </a>
+                                  </li>
+                                  <li>
+                                    <a
+                                      target="_blank"
+                                      href="https://www.instagram.com/chepie32/"
+                                    >
+                                      <em className="fab fa-instagram"></em>
                                     </a>
                                   </li>
                                 </ul>
@@ -1864,7 +1890,7 @@ const App = () =>  {
         </section> */}
         <section
           id="media"
-          className="vc_row wpb_row vc_row-fluid section-pad section-bg section-connect"
+          className="vc_row wpb_row vc_row-fluid section-pad section-bg section-connect sec-as-seen-in"
         >
           <div className="container">
             <div className="row">
@@ -1875,12 +1901,11 @@ const App = () =>  {
               >
                 <div className="vc_column-inner ">
                   <div className="wpb_wrapper">
-                    <h6
+                    <h2
                       style={{ textAlign: "center" }}
                       className="vc_custom_heading section-title-sm vc_custom_1520917253885"
                     >
-                      As seen in
-                    </h6>
+                      <strong>As seen in</strong></h2>
                   </div>
                 </div>
               </div>
@@ -2150,7 +2175,7 @@ const App = () =>  {
               <div
                 data-animate="fadeInUp"
                 data-delay="0.25"
-                className="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8"
+                className="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-12 vc_col-md-12"
               >
                 <div className="vc_column-inner ">
                   <div className="wpb_wrapper">
@@ -2160,16 +2185,10 @@ const App = () =>  {
                         data-animate="fadeInUp"
                         data-delay=".1"
                       >
-                        More About Ella Swap <span>Ella swap</span>
+                       <strong>More About Ella Swap</strong> <span>Ella swap</span>
                       </h2>
                     </div>
-                    <div className="vc_empty_space" style={{ height: "50px" }}>
-                      <span className="vc_empty_space_inner"></span>
-                    </div>
-                    <div
-                      className="vc_empty_space  vc_hidden-sm vc_hidden-xs"
-                      style={{ height: "60px" }}
-                    >
+                    <div className="vc_empty_space" style={{ height: "5px" }}>
                       <span className="vc_empty_space_inner"></span>
                     </div>
                   </div>
@@ -2299,7 +2318,7 @@ const App = () =>  {
               <div
                 data-animate="fadeInUp"
                 data-delay="0"
-                className="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-3 vc_col-lg-6 vc_col-md-offset-2 vc_col-md-8 "
+                className="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-12 vc_col-md-12"
               >
                 <div className="vc_column-inner ">
                   <div className="wpb_wrapper">
@@ -2309,7 +2328,7 @@ const App = () =>  {
                         data-animate="fadeInUp"
                         data-delay=".1"
                       >
-                        Frequently asked questions <span>Ella FAQS</span>
+                        <strong>Frequently asked questions</strong> <span>Ella FAQS</span>
                       </h2>
                     </div>
                     <div className="wpb_text_column wpb_content_element  vc_custom_1607245966711 text-center">
@@ -3140,7 +3159,7 @@ const App = () =>  {
                                 data-animate="fadeInUp"
                                 data-delay=".1"
                               >
-                                Contact Ella.Finance <span>CONTACT</span>
+                                <strong>Contact Ella Finance</strong> <span>CONTACT</span>
                               </h2>
                             </div>
                           </div>
@@ -3316,7 +3335,7 @@ const App = () =>  {
             <div className="row text-center">
               <div className="col-md-6 offset-md-3">
                 <h4 className="section-title-md">
-                  Don't miss out, Stay updated with Ella swap
+                  <strong>Don't miss out, Stay updated with Ella swap</strong> 
                 </h4>
               </div>
             </div>
