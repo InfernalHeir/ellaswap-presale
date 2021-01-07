@@ -135,6 +135,7 @@ a:active {
     color: #7a0fff
 }
 
+
 .theme-dark h1.color-secondary,
 .theme-dark h2.color-secondary,
 .theme-dark h3.color-secondary,
@@ -391,7 +392,7 @@ p.logged-in-as {
 }
 
 .text-block ul:not(.btns) li:before {
-    background: #46bdf4
+    background: #28384C
 }
 
 .section-head .section-title span,
@@ -451,7 +452,7 @@ p.logged-in-as {
 
 .event-info:before,
 .event-info .event-single-info:before {
-    background: #46bdf4
+    background: #28384C
 }
 
 .io-azure .countdown-box {
@@ -850,4 +851,8 @@ p.logged-in-as {
 
 .io-azure .section-pro .comment-form .input-field label.input-title {
     color: initial
+}
+
+h2 strong {
+    color: #28384C;
 }
