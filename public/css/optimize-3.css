@@ -9855,29 +9855,53 @@ div.vc_toggle.vc_toggle_arrow.vc_toggle_active h4 {
   font-weight: 400;
   line-height: 1.86;
 }
-.section-common p span{ color: #28384C; }
-.text-blue{ color: #46bdf4 !important; }
-.section-common ul li{
+.section-common p span {
+  color: #28384c;
+}
+.text-blue {
+  color: #46bdf4 !important;
+}
+.section-common ul li {
   line-height: 25px !important;
   margin-top: 8px;
 }
-.whyella_ul li::before{ top: 8px !important; }
-.whyella_ul li h6{ margin-bottom: 5px; }
-.whyella_ul li p{ margin-bottom: 20px !important; }
-.justify-content-center{ justify-content: center; }
-.sec-as-seen-in::before{
+.whyella_ul li::before {
+  top: 8px !important;
+}
+.whyella_ul li h6 {
+  margin-bottom: 5px;
+}
+.whyella_ul li p {
+  margin-bottom: 20px !important;
+}
+.justify-content-center {
+  justify-content: center;
+}
+.sec-as-seen-in::before {
   top: -28px;
-    width: 130px;
-    margin-left: -46px;
+  width: 130px;
+  margin-left: -46px;
 }
-.sec-as-seen-in h2{
+.sec-as-seen-in h2 {
   font-size: 22px;
-    padding-bottom: 15px;
+  padding-bottom: 15px;
 }
-.sec-as-seen-in h2 strong{ padding-left: 10px; }
-.sec-as-seen-in .single-partner{ padding-bottom: 0; }
-.sub-heading.text-dark{ color: #28384c !important; }
-
+.sec-as-seen-in h2 strong {
+  padding-left: 10px;
+}
+.sec-as-seen-in .single-partner {
+  padding-bottom: 0;
+}
+.sub-heading.text-dark {
+  color: #28384c !important;
+}
+.typewrite {
+  margin-right: 10px;
+}
+.typewriter_wrap {
+  display: inline-block;
+  min-width: 115px;
+}
 @media only screen and (max-width: 991px) {
   .switcher-top .wpml-ls-legacy-dropdown a.wpml-ls-item-toggle:after {
     top: 10px;
