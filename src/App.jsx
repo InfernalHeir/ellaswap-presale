@@ -3378,11 +3378,7 @@ const App = () =>  {
                   </li>
                 </ul>
                 <span className="copyright-text">
-                  Copyright © 2020, Made By
-                  <a href="http://wa.me/8755832604/" target="_blank">
-                  Ella Finance
-                  </a>
-                  .
+                  Copyright © 2020, Made By Ella Finance.
                   <span>
                     All trademarks and copyrights belong to their respective
                     owners.
