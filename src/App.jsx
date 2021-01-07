@@ -178,8 +178,11 @@ const App = () =>  {
                       <div className="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_bounceInLeft bounceInLeft vc_custom_1607254173917 wpb_start_animation animated">
                         <div className="wpb_wrapper">
                           <h2 className="future">
-                            <span className="text-ella typewriter">Trade</span>
-                            &nbsp;Trade/Issue your crypto assets with the most
+                          <div className="typewriter_wrap">
+                            <span href="" class="typewrite text-ella typewriter" data-period="2000" data-type='[ "Trade", "Issue" ]'>
+                            </span>
+                          </div>
+                            your crypto assets with the most
                             powerful Automated Liquidity platform for crypto
                             assets
                           </h2>
