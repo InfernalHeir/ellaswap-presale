@@ -6465,6 +6465,9 @@ select:focus {
   margin: 45 -30px !important;
   display: flex;
 }
+.contact-info.c {
+  justify-content: center;
+}
 
 .contact-info li {
   margin: 0 30px;
@@ -9902,6 +9905,7 @@ div.vc_toggle.vc_toggle_arrow.vc_toggle_active h4 {
   display: inline-block;
   min-width: 115px;
 }
+
 @media only screen and (max-width: 991px) {
   .switcher-top .wpml-ls-legacy-dropdown a.wpml-ls-item-toggle:after {
     top: 10px;
