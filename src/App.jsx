@@ -275,26 +275,26 @@ const App = () =>  {
                           data-sec="Second"
                         >
                           <li className="col">
-                            <span className="countdown-time days">{days}</span>
+                            <span className="countdown-time days">00</span>
                             <span className="countdown-text days_text">
                               Days
                             </span>
                           </li>
                           <li className="col">
-                            <span className="countdown-time hours">{hours}</span>
+                            <span className="countdown-time hours">00</span>
                             <span className="countdown-text hours_text">
                               Hours
                             </span>
                           </li>
                           <li className="col">
-                            <span className="countdown-time minutes">{minutes}</span>
+                            <span className="countdown-time minutes">00</span>
                             <span className="countdown-text minutes_text">
                               Minutes
                             </span>
                           </li>
                           <li className="col">
                             <span className="countdown-time seconds countdown-time-last">
-                              {seconds}
+                              00
                             </span>
                             <span className="countdown-text seconds_text">
                               Seconds
@@ -384,9 +384,9 @@ const App = () =>  {
                         </p>
                         <div className="blockHeadingContent-756c9114">
                           <span className="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
-                            <span data-key="69a0da596f1140578f04e1ba97e5e8ce">
-                              How does ELLA work
-                            </span>
+                           <h2>
+                           <strong>How does ELLA work</strong>
+                           </h2>
                           </span>
                         </div>
                         <p
@@ -410,14 +410,9 @@ const App = () =>  {
                           data-key="14bc28209cfa48f7a0ac3056b9c2d0a3"
                         >
                           <span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
-                            <span data-key="62b78736872c41fc83bbff6477affbe6">
-                              <strong
-                                className="bold-3c254bd9"
-                                data-slate-leaf="true"
-                              >
-                                Why ELLA
-                              </strong>
-                            </span>
+                          <h2>
+                           <strong>Why ELLA</strong>
+                           </h2>
                           </span>
                         </p>
                         <ul
@@ -1000,7 +995,7 @@ const App = () =>  {
                               >
                                 <li className="col">
                                   <span className="countdown-time days">
-                                    {days}
+                                  0
                                   </span>
                                   <span className="countdown-text days_text">
                                     Days
@@ -1008,7 +1003,7 @@ const App = () =>  {
                                 </li>
                                 <li className="col">
                                   <span className="countdown-time hours">
-                                    {hours}
+                                    0
                                   </span>
                                   <span className="countdown-text hours_text">
                                     Hours
@@ -1016,7 +1011,7 @@ const App = () =>  {
                                 </li>
                                 <li className="col">
                                   <span className="countdown-time minutes">
-                                    {minutes}
+                                    0
                                   </span>
                                   <span className="countdown-text minutes_text">
                                     Minutes
@@ -1024,7 +1019,7 @@ const App = () =>  {
                                 </li>
                                 <li className="col">
                                   <span className="countdown-time seconds countdown-time-last">
-                                    {seconds}
+                                    0
                                   </span>
                                   <span className="countdown-text seconds_text">
                                     Seconds
