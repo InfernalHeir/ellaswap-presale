@@ -383,10 +383,10 @@ const App = () =>  {
                               on-chain liquidity for everyone at zero slippage.
                             </span>
                         </p>
-                        <div className="blockHeadingContent-756c9114 sub-heading">
+                        <div className="blockHeadingContent-756c9114 sub-heading text-dark  ">
                           <span className="text-4505230f--HeadingH600-23f228db--textContentFamily-49a318e1">
                             <span data-key="69a0da596f1140578f04e1ba97e5e8ce">
-                              How does ELLA work
+                              <strong>How Does ELLA work</strong> 
                             </span>
                           </span>
                         </div>
@@ -413,10 +413,10 @@ const App = () =>  {
                           <span className="text-4505230f--TextH400-3033861f--textContentFamily-49a318e1">
                             <span data-key="62b78736872c41fc83bbff6477affbe6">
                               <span
-                                className="bold-3c254bd9 sub-heading"
+                                className="bold-3c254bd9 sub-heading text-dark "
                                 data-slate-leaf="true"
                               >
-                                Why ELLA
+                               <strong>Why ELLA</strong>
                               </span>
                             </span>
                           </span>
@@ -1312,7 +1312,7 @@ const App = () =>  {
                             <div className="wpb_text_column wpb_content_element  vc_custom_1520850810932 text-center">
                               <div className="wpb_wrapper">
                                 <p>
-                                  The ICO Crypto Team combines a passion for
+                                  The Team combines a passion for
                                   esports, industry experise &amp; proven record
                                   in finance, development, marketing &amp;
                                   licensing.
@@ -1344,29 +1344,14 @@ const App = () =>  {
                                   CEO &amp; Lead Blockchain
                                 </span>
                                 <ul className="team-social">
-                                  <li>
-                                    <a target="_blank" href="#">
-                                      <em className="fab fa-facebook-f"></em>
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a target="_blank" href="#">
-                                      <em className="fab fa-linkedin-in"></em>
-                                    </a>
-                                  </li>
+                            
+                             
                                   <li>
                                     <a target="_blank" href="https://twitter.com/MayMayreddy">
                                       <em className="fab fa-twitter"></em>
                                     </a>
                                   </li>
-                                  <li>
-                                    <a
-                                      target="_blank"
-                                      href="javascript:void(0)"
-                                    >
-                                      <em className="fab fa-instagram"></em>
-                                    </a>
-                                  </li>
+                             
                                 </ul>
                               </div>
                             </div>
@@ -1393,11 +1378,7 @@ const App = () =>  {
                                   Legal Counsel
                                 </span>
                                 <ul className="team-social">
-                                  <li>
-                                    <a target="_blank" href="#">
-                                      <em className="fab fa-facebook-f"></em>
-                                    </a>
-                                  </li>
+                          
                                   <li>
                                     <a
                                       target="_blank"
@@ -1406,22 +1387,8 @@ const App = () =>  {
                                       <em className="fab fa-linkedin-in"></em>
                                     </a>
                                   </li>
-                                  <li>
-                                    <a
-                                      target="_blank"
-                                      href="http://www.twitter.com/"
-                                    >
-                                      <em className="fab fa-twitter"></em>
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      target="_blank"
-                                      href="javascript:void(0)"
-                                    >
-                                      <em className="fab fa-instagram"></em>
-                                    </a>
-                                  </li>
+                                 
+                          
                                 </ul>
                               </div>
                             </div>
@@ -1446,11 +1413,7 @@ const App = () =>  {
                                   Digital Strategy Manager
                                 </span>
                                 <ul className="team-social">
-                                  <li>
-                                    <a target="_blank" href="#">
-                                      <em className="fab fa-facebook"></em>
-                                    </a>
-                                  </li>
+                              
                                   <li>
                                     <a
                                       target="_blank"
@@ -1459,22 +1422,8 @@ const App = () =>  {
                                       <em className="fab fa-linkedin-in"></em>
                                     </a>
                                   </li>
-                                  <li>
-                                    <a
-                                      target="_blank"
-                                      href="http://www.twitter.com/"
-                                    >
-                                      <em className="fab fa-twitter"></em>
-                                    </a>
-                                  </li>
-                                  <li>
-                                    <a
-                                      target="_blank"
-                                      href="javascript:void(0)"
-                                    >
-                                      <em className="fab fa-instagram"></em>
-                                    </a>
-                                  </li>
+                           
+                          
                                 </ul>
                               </div>
                             </div>
@@ -1512,14 +1461,7 @@ const App = () =>  {
                                       <em className="fab fa-linkedin-in"></em>
                                     </a>
                                   </li>
-                                  <li>
-                                    <a
-                                      target="_blank"
-                                      href="http://www.twitter.com/"
-                                    >
-                                      <em className="fab fa-twitter"></em>
-                                    </a>
-                                  </li>
+                           
                                   <li>
                                     <a
                                       target="_blank"
@@ -2221,7 +2163,8 @@ const App = () =>  {
                                 </li>
                               </ul>
                               <h5 className="blog-title">
-                                <a href="http://159.89.95.143/hello-world/">
+                                <a href="https://docs.ella.finance/"
+                                target="_blank">
                                   What is ella ?
                                 </a>
                               </h5>
@@ -2253,7 +2196,8 @@ const App = () =>  {
                                 </li>
                               </ul>
                               <h5 className="blog-title">
-                                <a href="http://159.89.95.143/swapbase/">
+                                <a href="https://docs.ella.finance/"
+                                target="_blank">
                                   SwapBase
                                 </a>
                               </h5>
@@ -2280,7 +2224,8 @@ const App = () =>  {
                                 </li>
                               </ul>
                               <h5 className="blog-title">
-                                <a href="http://159.89.95.143/add-liquidity/">
+                                <a href="https://docs.ella.finance/"
+                                target="_blank">
                                   Add Liquidity
                                 </a>
                               </h5>
@@ -3187,11 +3132,8 @@ const App = () =>  {
                           <div className="wpb_wrapper">
                             <div className="wpb_text_column wpb_content_element  vc_custom_1607246737884">
                               <div className="wpb_wrapper">
-                                <ul className="contact-info">
-                                  <li>
-                                    <em className="fa fa-phone">phone</em>+44
-                                    0123 4567
-                                  </li>
+                                <ul className="contact-info c">
+                             
                                   <li>
                                     <em className="fa fa-envelope">email</em>
                                     info@Ellaswap.com
