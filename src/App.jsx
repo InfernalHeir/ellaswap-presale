@@ -198,7 +198,7 @@ const App = () =>  {
                             <li>
                               <a
                                 className="btn"
-                                href="https://app.bounce.finance/fixed-swap/5008"
+                      
                               >
                                 &nbsp;Join Presale
                               </a>
@@ -306,7 +306,7 @@ const App = () =>  {
                         </ul>
                         <a
                           className="btn btn-alt btn-sm"
-                          href="https://app.bounce.finance/fixed-swap/5008"
+                         
                           target="_self"
                         >
                           Join &amp; BUY TOKEN NOW
@@ -917,7 +917,7 @@ const App = () =>  {
                                   data-animate="fadeInUp"
                                   data-delay="0"
                                 >
-                                  <h6>Start</h6>
+                                  <h6>To Be Announced</h6>
                                   <p>10 th JAN, 2021 (9:00 AM GMT)</p>
                                 </div>
                               </div>
@@ -928,7 +928,7 @@ const App = () =>  {
                                   data-delay="0"
                                 >
                                   <h6>Number of tokens for sale</h6>
-                                  <p>3 Million Ella (9%)</p>
+                                  <p>1.3 Million Ella (9%)</p>
                                 </div>
                               </div>
                               <div className="col-sm-4">
@@ -937,7 +937,7 @@ const App = () =>  {
                                   data-animate="fadeInUp"
                                   data-delay="0"
                                 >
-                                  <h6>End</h6>
+                                  <h6>To Be Announced</h6>
                                   <p>20 th JAN, 2021 (9:00 AM GMT)</p>
                                 </div>
                               </div>
@@ -949,7 +949,7 @@ const App = () =>  {
                                 >
                                   <h6>Presale Price</h6>
                                   <p>
-                                   0.3 USD Per Ella
+                                   1 USD Per Ella
                                   </p>
                                 </div>
                               </div>
@@ -960,7 +960,7 @@ const App = () =>  {
                                   data-delay="0"
                                 >
                                   <h6>Tokens</h6>
-                                  <p>1,069,318 ELLA</p>
+                                  <p>1,300,000 ELLA</p>
                                 </div>
                               </div>
                               <div className="col-sm-4">
@@ -970,7 +970,7 @@ const App = () =>  {
                                   data-delay="0"
                                 >
                                   <h6>Listing Price</h6>
-                                  <p>0.38 USD</p>
+                                  <p>1.09 USD</p>
                                 </div>
                               </div>
                             </div>
@@ -1347,7 +1347,7 @@ const App = () =>  {
                             
                              
                                   <li>
-                                    <a target="_blank" href="https://twitter.com/MayMayreddy">
+                                    <a target="_blank" href="https://twitter.com/SaiMayreddy">
                                       <em className="fab fa-twitter"></em>
                                     </a>
                                   </li>
@@ -1833,284 +1833,14 @@ const App = () =>  {
           </div>
           <div className="clearfix"></div>
         </section> */}
-        <section
-          id="media"
-          className="vc_row wpb_row vc_row-fluid section-pad section-bg section-connect sec-as-seen-in"
-        >
-          <div className="container">
-            <div className="row">
-              <div
-                data-animate="fadeInUp"
-                data-delay="0"
-                className="wpb_column vc_column_container vc_col-sm-12"
-              >
-                <div className="vc_column-inner ">
-                  <div className="wpb_wrapper">
-                    <h2
-                      style={{ textAlign: "center" }}
-                      className="vc_custom_heading section-title-sm vc_custom_1520917253885"
-                    >
-                      <strong>As seen in</strong></h2>
-                  </div>
-                </div>
-              </div>
-              <div className="wpb_column vc_column_container vc_col-sm-12">
-                <div className="vc_column-inner ">
-                  <div className="wpb_wrapper">
-                    <div className="vc_row vc_row-flex wpb_row vc_inner vc_row-o-content-middle vc_row-fluid align-items-center" style={{ justifyContent: "center" }}>
-                      <div
-                        data-animate="fadeInUp"
-                        data-delay="0.1"
-                        className="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center   single-partner">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="160"
-                                    height="60"
-                                    src="img/Cointelegraph_logo.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-          
-                      {/* <div
-                        data-animate="fadeInUp"
-                        data-delay="0.3"
-                        className="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center   single-partner">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="831"
-                                    height="161"
-                                    src="img/logo_coindesk.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                    srcSet="http://159.89.95.143/chamsuph/2020/12/logo_coindesk.png 831w, http://159.89.95.143/chamsuph/2020/12/logo_coindesk-300x58.png 300w, http://159.89.95.143/chamsuph/2020/12/logo_coindesk-768x149.png 768w"
-                                    sizes="(max-width: 831px) 100vw, 831px"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div
-                        data-animate="fadeInUp"
-                        data-delay="0.4"
-                        className="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center   single-partner">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="160"
-                                    height="60"
-                                    src="img/partner-xs-d.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div
-                        data-animate="fadeInUp"
-                        data-delay="0.5"
-                        className="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center   single-partner">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="160"
-                                    height="60"
-                                    src="img/partner-xs-e.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
-                      {/* <div
-                        data-animate="fadeInUp"
-                        data-delay="0.6"
-                        className="wpb_column vc_column_container vc_col-sm-2 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center   single-partner">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="160"
-                                    height="60"
-                                    src="img/partner-xs-f.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div> */}
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {/* <div className="wpb_column vc_column_container vc_col-sm-10 vc_col-sm-offset-1">
-                <div className="vc_column-inner ">
-                  <div className="wpb_wrapper">
-                    <div className="vc_row wpb_row vc_inner vc_row-fluid">
-                      <div
-                        data-animate="fadeInUp"
-                        data-delay="0.7"
-                        className="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="143"
-                                    height="78"
-                                    src="img/logo_e27.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                            <div
-                              className="vc_empty_space  vc_hidden-lg vc_hidden-md vc_hidden-sm"
-                              style={{ height: "30px" }}
-                            >
-                              <span className="vc_empty_space_inner"></span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        data-animate="fadeInUp"
-                        data-delay="0.8"
-                        className="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="190"
-                                    height="60"
-                                    src="img/partner-sm-b.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                            <div
-                              className="vc_empty_space  vc_hidden-lg vc_hidden-md vc_hidden-sm"
-                              style={{ height: "30px" }}
-                            >
-                              <span className="vc_empty_space_inner"></span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        data-animate="fadeInUp"
-                        data-delay="0.9"
-                        className="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="300"
-                                    height="128"
-                                    src="img/logo_yahoofinance.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                            <div
-                              className="vc_empty_space  vc_hidden-lg vc_hidden-md vc_hidden-sm"
-                              style={{ height: "30px" }}
-                            >
-                              <span className="vc_empty_space_inner"></span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div
-                        data-animate="fadeInUp"
-                        data-delay="1"
-                        className="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6"
-                      >
-                        <div className="vc_column-inner ">
-                          <div className="wpb_wrapper">
-                            <div className="wpb_single_image wpb_content_element vc_align_center">
-                              <figure className="wpb_wrapper vc_figure">
-                                <div className="vc_single_image-wrapper   vc_box_border_grey">
-                                  <img
-                                    width="190"
-                                    height="60"
-                                    src="img/partner-sm-d.png"
-                                    className="vc_single_image-img attachment-full"
-                                    alt=""
-                                    loading="lazy"
-                                  />
-                                </div>
-                              </figure>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div> */}
-            </div>
-          </div>
-          <div className="clearfix"></div>
-        </section>
+  
+      
+      
+      
+      
+      
+      
+      
         <section
           id="latestblog"
           className="vc_row wpb_row vc_row-fluid section-pad section-bg-dark"
@@ -2243,7 +1973,7 @@ const App = () =>  {
                       <div className="col-md-12">
                         <a
                           className="btn btn-more"
-                          href="http://wpdemo.oceanthemes.net/icos/blog/"
+                          href="https://docs.ella.finance/"
                           target="_self"
                         >
                           READ ALL NEWS <em className="ti ti-angle-right"></em>
